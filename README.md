@@ -12,7 +12,7 @@ The system aims to provide users with exposure to three distinct career paths th
 ![There's suppose to be an image of the pipeline here...](assets/pipeline.png)
 
 ## Running the Code
-The project consists of two parts: [`PROJECY.ipynb`](PROJECT.ipynb) (notebook) [`job_search_engine.py`](job_search_engine.py) (script).
+The project consists of two parts: [`PROJECT.ipynb`](PROJECT.ipynb) (notebook) [`job_search_engine.py`](job_search_engine.py) (script).
 - The notebook contains most of the other pipline, starting from the data preprocessing up to the integration with Gemini.
 - The job search script contains the last part of the pipeline, which is the job search based on Gemini's results.
 

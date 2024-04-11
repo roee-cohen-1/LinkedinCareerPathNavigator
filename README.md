@@ -20,7 +20,7 @@ To run the notebook, you need access to the course's Databricks environment. Jus
 To run the search engine, install the libraries listed in [`requirements.txt`](requirements.txt) and run like any other python script (We were using Python 3.11).
 
 ## Scraping [_Dice.com_](https://dice.com/)
-For the data collection part of the project, we have scraped [Dice.com](https://dice.com/) for **public** tech job postings.
+For the data collection part of the project, we have scraped [_Dice.com_](https://dice.com/) for **public** tech job postings.
 The scraping code can be found in [`scraping.py`](scraping.py) and the post-processing of the scraping results is done in [`to_jsonl.py`](to_jsonl.py).
 
 > [!NOTE]
